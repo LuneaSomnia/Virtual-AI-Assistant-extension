@@ -1,0 +1,27 @@
+.status-led {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #gray;
+  margin: 10px auto;
+  transition: background-color 0.3s ease;
+}
+
+.container {
+  padding: 20px;
+  width: 300px;
+}
+
+#feedback {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-height: 50px;
+}
+
+#testResults {
+  margin-top: 10px;
+  font-family: monospace;
+  font-size: 12px;
+}
