@@ -51,4 +51,15 @@ To use this extension:
 -Configure voice settings
 -Start using voice commands
 
+5. Testing Features:
+-Click the extension icon
+-Grant microphone permissions
+-Say the wake word (default is "Hey Assistant")
+
+-Try commands like:
+"Open new tab"
+"Search for cats"
+"Read this page"
+"Translate this to Spanish"
+
 The project effectively merges voice technology with AI to create an intuitive browser assistant, suitable for both accessibility needs and convenience.
